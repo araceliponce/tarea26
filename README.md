@@ -2,7 +2,6 @@
 
 ![](./src/assets/capture.png)
 ![](./src/assets/capture1.png)
-![](./src/assets/capture2.png)
 ![](./src/assets/capture3.png)
 ![](./src/assets/capture4.png)
 ![](./src/assets/capture5.png)
