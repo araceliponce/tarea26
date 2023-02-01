@@ -15,7 +15,8 @@ Demo: <https://araceliponce.github.io/tarea26/>
 
 ![](./src/assets/capture.png)
 
-- Solo permite el ingreso a las demás pestañas tras haber iniciado sesión. Para esto, debes usar uno de los pares de nombre (user.username) y password (user.email) correctos. Estos datos se obtienen de json.placeholder
+- Solo permite el ingreso a las demás pestañas tras haber iniciado sesión. Para esto, debes usar uno de los pares de nombre y password correctos. Estos datos se obtienen de la api de json.placeholder
+(Puedes usar por ejemplo: usuario:`bret` y password:`sincere@april.biz` o usuario: `antonette` y password: `shanna@melissa.tv`)
 
 - Tras el login el usuario es redirigido a la vista de Usuarios
 
