@@ -1,5 +1,12 @@
 # Tarea26
 
+## Integrantes:
+
+- ARACELI PONCE SANGA
+- EDILT LUZ TORIBIO FLORES
+- MARWIN WLADIMIR GARAY MONTOYA
+- JHYM STONY HUALLA MUÑOZ
+
 ![](./src/assets/capture.png)
 ![](./src/assets/capture1.png)
 ![](./src/assets/capture3.png)
